@@ -1,0 +1,44 @@
+[
+  {
+    "humans": [
+      {
+        "id": 1,
+        "name": "Obasey Chidy",
+        "city": "San Francisco",
+        "image": "/static/media/1.bae93fcc.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Homabaseo Shakibaii",
+        "city": "Melbourne",
+        "image": "/static/media/2.42cb07c7.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Niek Base",
+        "city": "Abu Dhabi",
+        "image": "/static/media/3.d07f6877.jpg"
+      }
+    ],
+    "animals": [
+      {
+        "id": 1,
+        "name": "German Shepherd",
+        "city": "Madison",
+        "image": "/static/media/4.a2f7b920.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Golden Retriever",
+        "city": "Cincinnati",
+        "image": "/static/media/6.3b507bbf.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Siberian Husky",
+        "city": "Dallas",
+        "image": "/static/media/5.0575970a.jpg"
+      }
+    ]
+  }
+]
