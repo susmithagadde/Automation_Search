@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import PostData from "../data/post.json";
+import PostData from "../data/post.js";
 import "../../node_modules/font-awesome/css/font-awesome.min.css";
 import "./search.css";
 
